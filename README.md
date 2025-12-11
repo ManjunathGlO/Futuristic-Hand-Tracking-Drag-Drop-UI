@@ -6,7 +6,7 @@ This project brings **gesture-controlled interfaces** to life using **computer v
 Move UI panels using only your **hand (pinch gesture)** — inspired by futuristic AR systems seen in Iron Man JARVIS and Minority Report.
 
 [https://github.com/YOUR_USERNAME/Futuristic-Hand-Tracking-UI  ](https://github.com/ManjunathGlO/Futuristic-Hand-Tracking-Drag-Drop-UI.git)
-*(Replace with your repo URL)*
+
 
 ---
 
